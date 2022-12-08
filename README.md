@@ -1,1 +1,1 @@
-"# aha-recipes"
+# aha-recipes
